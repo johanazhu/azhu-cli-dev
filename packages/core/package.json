@@ -21,5 +21,8 @@
   },
   "dependencies": {
     "@azhu-cli-dev/utils": "^1.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
