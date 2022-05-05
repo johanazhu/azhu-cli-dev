@@ -1,6 +1,6 @@
 {
   "name": "@azhu-cli-dev/core",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "> TODO: description",
   "author": "johanazhu <t511069160@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@azhu-cli-dev/utils": "^1.0.2"
+    "@azhu-cli-dev/utils": "^1.0.5"
   },
   "publishConfig": {
     "access": "public"
